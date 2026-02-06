@@ -2931,10 +2931,10 @@ to-regex-range@^5.0.1:
   dependencies:
     is-number "^7.0.0"
 
-tonweb@^0.0.38:
-  version "0.0.38"
-  resolved "https://registry.yarnpkg.com/tonweb/-/tonweb-0.0.38.tgz#0f30f42ca38ca5cc9666687f4f87279259ff6767"
-  integrity sha512-553K+0LmsZcdhw+1SyGqlkMsncKjrgAe+88bKqhQ5b//G56mZc1KLvFKhpUQSR1GQZn54xpzZVqGZKhHiZK6vA==
+tonweb@^0.0.66:
+  version "0.0.66"
+  resolved "https://registry.yarnpkg.com/tonweb/-/tonweb-0.0.66.tgz#e9aa1f81ac2c2a9b0ff692294d58b1dfea516fb4"
+  integrity sha512-ntDJU1b/kgMFvOYN09FvhdnAfwnZh8W5sONkUP+P0FQkYRa/027otRxApp5gfxZ9DR+3WTnCQgrsG/EXv8RhEA==
   dependencies:
     "@ledgerhq/hw-transport-web-ble" "5.48.0"
     "@ledgerhq/hw-transport-webhid" "5.48.0"

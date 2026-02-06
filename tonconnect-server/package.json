@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "create-hmac": "^1.1.7",
-    "tonweb": "^0.0.38",
+    "tonweb": "^0.0.66",
     "tweetnacl": "^1.0.3",
     "tweetnacl-util": "^0.15.1"
   },
