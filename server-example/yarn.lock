@@ -135,8 +135,10 @@
   dependencies:
     defer-to-connect "^1.0.1"
 
-"@tonapps/tonconnect-server@../tonconnect-server":
-  version "0.1.0"
+"@tonapps/tonconnect-server@0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@tonapps/tonconnect-server/-/tonconnect-server-0.1.1.tgz#e2e01a32e69d044185b0b8864d0b9b75402fdf0a"
+  integrity sha512-t1zakZddk69ustMWVuTUftUQ3ioKgIPQNJgg024NpRVtI0L1xO+/OFGxy6DpVzjC/o5niVNyUbGyzR83lgH0lg==
   dependencies:
     create-hmac "^1.1.7"
     tonweb "^0.0.38"
